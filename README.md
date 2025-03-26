@@ -33,7 +33,7 @@ This is a template demonstration and **not a full production site**. It does not
 
 ## Live Preview
 
-🔗 [GitHub Pages Link]
+🔗 https://aleksandarm03.github.io/fitness-promo-site/
 
 ## For Clients
 
